@@ -1,0 +1,1 @@
+public enum Trackback { Diagonal = 0, Up = 1, Left = 2};
